@@ -1,2 +1,0 @@
-# Meu-script
-Sla
